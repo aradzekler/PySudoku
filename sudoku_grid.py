@@ -5,6 +5,7 @@ import static_helpers
 pygame.font.init()
 
 
+
 class SudokuGrid:
 	# a cell with 0 in it means an empty cell.
 	board = [
