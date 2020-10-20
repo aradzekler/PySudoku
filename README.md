@@ -4,10 +4,9 @@ A Python Sudoku solver.
 
 # Pictures
 
-![picture1](/presentation/Untitled1.png)
+![picture1](/Untitled11.png)
 
-![picture1](/presentation/Untitled2.png)
+![picture2](/Untitled22.png)
 
-![picture1](/presentation/Untitled3.png)
+![picture3](/Untitled33.png)
 
-![picture1](/presentation/Untitled4.png)
